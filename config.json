@@ -1,0 +1,38 @@
+{
+	"au": {
+			"winepeople": {
+				"config":{
+					"brandName": "wp",
+					"sassPath": "sass/au",
+					"scriptPath": "js_source/script"
+				}, 
+				"interface":{
+					"main": {
+						"css": "assets/css/au/wpe",
+						"js": "assets/js/au/wpe"
+					},
+					"common":{
+						"css": "assets/css/au/com",
+						"js": "assets/js/au/com"
+					}
+				}
+			},
+			"theaustralianwine": {
+				"config":{
+					"brandName": "adc",
+					"sassPath": "sass/au",
+					"scriptPath": "js_source/script"
+				}, 
+				"interface":{
+					"main": {
+						"css": "assets/css/au/adc",
+						"js": "assets/js/au/adc"
+					},
+					"common":{
+						"css": "assets/css/au/com",
+						"js": "assets/js/au/com"
+					}
+				}
+			}
+		}
+}
